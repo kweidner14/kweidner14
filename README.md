@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kweidner14
-- 👀 I’m interested in Web Development and Data Mining
-- 🌱 I’m currently learning Ruby on Rails & Python Data Mining
+- 👀 I’m interested in Web Development, Data Mining, and Machine Learning
 - 🐱‍🚀 Portfolio: <a href="https://kweidner.com">kweidner.com</a>
 
 <!---
