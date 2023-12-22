@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kweidner14
-- 👀 I’m interested in Web Development, Data Mining & Machine Learning, Web3 & Solidity.
+- 👀 I’m interested in Web Development, Data Mining, Machine Learning, Web3 & Solidity.
 - 🐱‍🚀 Portfolio: <a href="https://kweidner.com">kweidner.com</a>
 
 <!---
